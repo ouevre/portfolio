@@ -11,8 +11,8 @@ body, html {
 	min-width: 870px;
 }
 
-a.link					{color: #000; border-bottom: #000 1px dotted; text-decoration: none}
-a.link:hover				{color: #b1b1b1; border-bottom: #dadad9 3px dotted}
+a.link 					{color: #000}
+a.link:hover 			{color: #b1b1b1}
 
 p						{margin: 0px; padding:  0px 0px 20px 0px}
 
@@ -117,7 +117,3 @@ a.sketch:hover				{color: #b1b1b1; border-bottom: #dadad9 5px dotted}
 }
 
 #bottom	#copyright			{font-size: 12px; padding: 60px 0px 0px 0px; right: 20px; position:absolute; font-weight: bold}
-
-
-
-
